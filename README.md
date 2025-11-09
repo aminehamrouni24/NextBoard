@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-   <a href="https://nextboard.vercel.app" target="_blank" align="center">
+   <a href=" https://nextboard.vercel.app](https://next-board-gamma.vercel.app " target="_blank" align="center">
       NextBoard — Free Next.js + Tailwind Admin Dashboard Template
    </a>
 </h1>
@@ -125,10 +125,4 @@ git push origin feature/your-feature
 <p align="center"> Made with ❤️ by <a href="https://aminehamrouni.dev" target="_blank">Amine Hamrouni</a> — Senior Full-Stack Engineer (Next.js / Node.js) </p> ```
 ✅ How this helps you:
 
-It’s fully branded as your own template.
-
-Keeps the structure of a professional open-source project.
-
-Adds your personal story and contact links (human touch).
-
-SEO-optimized for GitHub (your name, tech keywords, live demo).
+ 
