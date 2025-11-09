@@ -15,7 +15,7 @@
    Perfect for developers building dashboards, SaaS apps, and data platforms.
 </p>
 
-[![NextBoard Dashboard Demo Screenshot](https://github.com/aminehamrouni24/nextboard-dashboard/blob/main/screenshots/dashboard.png)](https://nextboard.vercel.app)
+[![NextBoard Dashboard Demo live]([https://github.com/aminehamrouni24/nextboard-dashboard/blob/main/screenshots/dashboard.png)](https://nextboard.vercel.app](https://next-board-gamma.vercel.app/))
 
 ---
 
